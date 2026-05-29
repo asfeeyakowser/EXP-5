@@ -30,8 +30,11 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+<img width="825" height="1280" alt="WhatsApp Image 2026-05-28 at 11 20 43 PM" src="https://github.com/user-attachments/assets/ba3749d1-566b-46c2-b0f0-946beac4e632" />
+
 
 V-I & REGULATION CHARACTERISTICS:
+<img width="833" height="1280" alt="WhatsApp Image 2026-05-28 at 11 21 02 PM" src="https://github.com/user-attachments/assets/3b63cc27-da58-413d-8ebb-e5beb919a52f" />
 
 PRECAUTIONS:
 
